@@ -1,0 +1,17 @@
+0f782d58b5beaa38ccae943ac9e11d84 *DESCRIPTION
+6842e742b8bfd9ee5ded633f697510e6 *NAMESPACE
+48b3e8370c87b08e912eda356852c8e4 *NEWS.md
+917eeab7d2a3d06d762c5b2a091c209b *R/AICc.R
+bb2e50c4727c520a0c609f49153e4155 *R/BootGOFTestLM.R
+02ddd2c4f16b1ee76f3038cdad55aa55 *R/DBModelSelect-package.R
+b0fe16aeebaa46a2695777ba6e228d4e *R/FitGLMSubsets.R
+3a65d28da3992360775bf3cf533324be *R/FitLMSubsets.R
+0ec0e13780a850af050236a939c63ebb *R/StandICModelSelect.R
+81c7132299328015e4762fbb7ba3d867 *README.md
+d83c1d6f9d17d81e820ed5c716a5eff9 *build/partial.rdb
+4cbcfef9feb39304eeab26674ea0526f *man/AICc.Rd
+a52e603af55b962c2f21bf574388c350 *man/BootGOFTestLM.Rd
+0f2f3346912f1ddc8eefa1934efea932 *man/DBModelSelect-package.Rd
+d6bb7d4f5821b1c7eb4a69014016a6ce *man/FitGLMSubsets.Rd
+ddb5e4b5203f99c7795339d6dd571270 *man/FitLMSubsets.Rd
+560d0de8e1676587d95e0f76b10ef9ce *man/StandICModelSelect.Rd
